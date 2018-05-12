@@ -1,0 +1,28 @@
+_repo: Astronomy-for-Young-Folks_45112
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45112-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lewis, Isabel Martin
+    alias: Lewis, Isabel Eleanor Martin, Mrs.
+    birthdate: 1881
+    gutenberg_agent_id: '43110'
+    url: http://www.gutenberg.org/2009/agents/43110
+    wikipedia: http://en.wikipedia.org/wiki/Isabel_Martin_Lewis
+description: ''
+gutenberg_issued: '2014-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45112'
+  lccn: '22019466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy -- Juvenile literature'
+title: Astronomy for Young Folks
+url: http://www.gutenberg.org/ebooks/45112
